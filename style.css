@@ -11,15 +11,16 @@ body{
     font-family: "Nunito", sans-serif;
 }
 .container {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
+    display: flex;
+    gap: 40px;
+    padding: 50px;
+    justify-content: center;
+    align-items: flex-start;
 }
 .box{
-    min-width: 400px;
+    min-width: 350px;
     background: #fafafa;
-    border-radius: 38px;
+    border-radius: 30px;
     text-align: center;
     position: relative;
 
@@ -38,18 +39,18 @@ body{
 }
 h1 {
     font-weight: bold;
-    font-size: 36px;
-    padding: 36px 0;
+    font-size: 30px;
+    padding: 30px 0;
 }
 .content{
-    padding: 0 40px;
+    padding: 0 35px;
 }
 .input{
     background: #FFF;
     box-shadow: 0px 0px 95px -35px rgba(0, 0, 0,0.15);
     border-radius: 28px;
-    padding: 20px 0;
-    margin-bottom: 20px;
+    padding: 15px 0;
+    margin-bottom: 16px;
 }
 .input label{
     display: block;
@@ -83,7 +84,7 @@ button#calculator:hover{
     background: #0044ff;
 }
 .result{
-    padding: 30px 20px;
+    padding:  20px;
 }
 .result p{
     font-weight: 600;
@@ -105,4 +106,47 @@ button#calculator:hover{
 #comment{
     color: #4f7df9;
     
+}
+.tips{
+    width: 320px;
+    background: #fff;
+    border-radius: 25px;
+    padding: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0,0.15);
+    margin-top: -30px;
+}
+.tips h2{
+    text-align: center;
+    color: #4f7df9;
+    margin-bottom: 20px;
+
+}
+.tip-card{
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+.tip-card h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+.tip-card ul {
+    padding-left: 20px;
+}
+.tip-card li {
+    margin: 5px 0;
+    font-size: 18px;
+}
+.healthy {
+    background: #e8f8ee;
+}
+.underwight {
+    background: #616f7e;
+}
+.overweight {
+    background: #fff5df;
+}
+.obese{
+    background: #ffe7e7;
 }
