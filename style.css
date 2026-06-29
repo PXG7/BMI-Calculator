@@ -24,7 +24,7 @@ body{
 
 }
 .box::before{
-    contain: ;
+    content: "";
     position: absolute;
     height: 110%;
     width: 110%;
