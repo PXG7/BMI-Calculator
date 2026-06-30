@@ -16,7 +16,7 @@ This is a BMI calculator. It allows users to calculate their BMI by entering the
 
 . CSS
 
-. JavaScript
+. JavaScript 
 
 ## Live Demo
 
@@ -26,6 +26,6 @@ This is a BMI calculator. It allows users to calculate their BMI by entering the
 
 ![BMI Calculator](./bmisrc.png)
 
-## You can connect with Me
+## You can connect With Me
 
-gmail:pokhrelgokul2@gmail.com
+gmail: pokhrelgokul2@gmail.com
