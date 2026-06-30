@@ -12,11 +12,11 @@ This is a BMI calculator. It allows users to calculate their BMI by entering the
 
 ## Languages Used
 
-. HTML
+* HTML
 
-. CSS
+* CSS
 
-. JavaScript
+* JavaScript
 
 ## Live Demo
 
