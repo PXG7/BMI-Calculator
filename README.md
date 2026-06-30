@@ -4,11 +4,11 @@ This is a BMI calculator. It allows users to calculate their BMI by entering the
 
 ## Features
 
-> Calculates BMI
+* Calculates BMI
 
-> Shows health category
+* Shows health category
 
-> Helth tips section
+* Helth tips section
 
 ## Languages Used
 
