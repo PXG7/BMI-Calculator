@@ -141,8 +141,8 @@ button#calculator:hover{
 .healthy {
     background: #e8f8ee;
 }
-.underwight {
-    background: #616f7e;
+.underweight {
+    background: #eaf4ff;
 }
 .overweight {
     background: #fff5df;
